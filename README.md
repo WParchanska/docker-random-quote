@@ -1,4 +1,4 @@
-rosty projekt pokazujący działanie Dockera z Pythonem.
+Prosty projekt pokazujący działanie Dockera z Pythonem.
 
 ## Pliki
 
